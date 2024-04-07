@@ -101,7 +101,7 @@ public class UI implements ActionListener {
       butOneDividedBy = new JButton("1/x");      
       butCos = new JButton("Cos");      
       butSin = new JButton("Sin");      
-      butTan = new JButton("Tan");      
+      butTan = new JButton("TAn");      
       butln = new JButton("ln");     
       butxpowerofy = new JButton("x^y");      
       butlog = new JButton("log10(x)");      
